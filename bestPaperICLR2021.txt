@@ -1,0 +1,14 @@
+Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters by Aston Zhang, Yi Tay, Shuai Zhang, Alvin Chan, Anh Tuan Luu, Siu Hui, and Jie Fu
+
+Complex Query Answering with Neural Link Predictors by Erik Arakelyan, Daniel Daza, Pasquale Minervini, and Michael Cochez
+
+EigenGame: PCA as a Nash Equilibrium by Ian Gemp, Brian McWilliams, Claire Vernade, and Thore Graepel
+Learning Mesh-Based Simulation with Graph Networks by Tobias Pfaff, Meire Fortunato, Alvaro Sanchez-Gonzalez, and Peter Battaglia
+
+Neural Synthesis of Binaural Speech from Mono Audio by Alexander Richard, Dejan Markovic, Israel D. Gebru, Steven Krenn, Gladstone Alexander Butler, Fernando Torre, and Yaser Sheikh
+
+Optimal Rates for Averaged Stochastic Gradient Descent under Neural Tangent Kernel Regime by Atsushi Nitanda, and Taiji Suzuki
+
+Rethinking Architecture Selection in Differentiable NAS by Ruochen Wang, Minhao Cheng, Xiangning Chen, Xiaocheng Tang, and Cho-Jui Hsieh
+
+Score-Based Generative Modeling through Stochastic Differential Equations by Yang Song, Jascha Sohl-Dickstein, Diederik P Kingma, Abhishek Kumar, Stefano Ermon, and Ben Poole
